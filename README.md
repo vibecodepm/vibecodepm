@@ -1,5 +1,36 @@
 ## Hi there 👋
 
+I am a Product Leader | AI Product Builder
+
+I build consumer products, AI applications and agentic workflows.
+
+━━━━━━━━━━━━━━━━━━━━
+
+🚀 Cooking:
+
+AI Interview Coach,
+AI-powered interview simulation & coaching
+
+Hermes
+Local-first AI agent platform
+
+━━━━━━━━━━━━━━━━━━━━
+
+🧠 9-5 Product Husstle
+
+Consumer Products
+
+Growth
+
+MarTech
+
+AI
+
+Experimentation
+
+━━━━━━━━━━━━━━━━━━━━
+
+
 <!--
 **vibecodepm/vibecodepm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
