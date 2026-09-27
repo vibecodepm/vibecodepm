@@ -6,7 +6,7 @@ I build consumer products, AI applications and agentic workflows.
 
 ━━━━━━━━━━━━━━━━━━━━
 
-🚀 Cooking:
+🚀 Cooking Digital Products:
 
 AI Interview Coach,
 AI-powered interview simulation & coaching
